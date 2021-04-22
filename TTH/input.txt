@@ -1,5 +1,14 @@
-Red Velvet is a South Korean girl group formed and managed by SM Entertainment. They debuted on August 1, 2014 with the digital single "Happiness" with the four-member line-up of Irene, Seulgi, Wendy and Joy. Yeri joined the group in March 2015, following their first major release, Ice Cream Cake. Musically, the work of Red Velvet reflects their own group name: their predominantly-pop "red" side experiments occasionally with electronic, funk and hip hop, while their "velvet" side focuses on '90s-influenced R&B with elements of ballad and jazz.
+Decision making is an integral part of any business organization, decision making is a continuous process which involves selecting the best among several decisions. the types of decisions can be classified into 3 major categories.
+1. Decision under certainty 
+2. Decision under risk
+3. Decision under uncertainty
 
-The group's Korean-language discography includes two studio albums, one reissue album, one compilation and nine extended plays—eleven of which topped South Korea's Gaon Album Chart. Hit singles "Red Flavor" and "Power Up" charted at number one on the Gaon Digital Chart; with other singles charting in the top five, including "Happiness", "Ice Cream Cake", "Dumb Dumb", "Russian Roulette", "Rookie", "Peek-a-Boo", "Bad Boy" and "Psycho". The group ventured into the Japanese music scene with the extended plays #Cookie Jar (2018) and Sappy (2019).
-
-Red Velvet are widely praised for their diverse discography and "hook" songs, receiving numerous accolades throughout their career, including the 2015 Golden Disc New Artist Award, the 2017 Mnet Asian Music Award for Best Female Group, 2018 Korean Music Awards Best Pop Song for "Red Flavor", 2019 Song of the Year Award at the Asia Artist Awards for "Umpah Umpah", and by 2020 became the second K-pop group to ever win Daesang (Grand Prize) for every release in a trilogy album (The ReVe Festival: Day 1, Day 2, and Finale). Nationally, they are recognized as one of most powerful South Korean celebrities by Forbes Korea Power Celebrity (#11 in 2018 and #5 in 2019).[2][3] Internationally, they are named one of the most popular K-pop groups by Time and Billboard, being the fifth most streamed K-pop artist worldwide on Spotify as of February 2020.
+These are the three decision environment. 
+Decision under certainty
+According to this situation, if the availability of information for a decision environment is perfect then the decision taken under such environment a called decision under certainty or deterministic decision because all the information are available, with that you're going to take a decision is called decision under certainty. 
+Decision under risk
+According to this situation, if the availability of information for decision environment is partial, then the decision taken under such environment is called decision under risk.
+The information can be described in the form of a probability distribution. So, this kind of decision is called decision under risk. 
+Decision under uncertainty 
+If the availability of information for a Decision environment is incomplete. Then the decision taken under such an environment is called decision under uncertainty.
+Under this environment, there are 5 criteria to make a decision. These are the 5 criteria under this environment. 
